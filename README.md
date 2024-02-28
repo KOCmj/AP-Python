@@ -1,4 +1,4 @@
-Allowing me to present my portfolio for advanced python. 
+Allow me to present my portfolio for advanced python. 
 Throughout the course, I delved into various advanced concepts and techniques essential Python programming.
 Here are some highlights of the topics covered:
 
